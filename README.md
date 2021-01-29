@@ -1,6 +1,6 @@
 ### Web Developer, Mechanical Engineer, and Artist
 
-* React.js / Node.js / JavaScript / HTML / CSS / Python *
+*React.js / Node.js / JavaScript / HTML / CSS / Python*
 
 Multi-disciplinary engineer with experience in product design and development, as well as prototyping and manufacturing. I've worked in engineering consulting, consumer electronics, medical devices, and solar industries. 
 
