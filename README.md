@@ -11,5 +11,5 @@ Multi-disciplinary engineer with experience in product design and development, a
 - 😄 Pronouns... they/them 
 - ⚡ Fun fact... I type in Dvorak! 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/tltsay/) </br>
-Check out my Mechanical Engineering and Art projects at Behance! [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='30'>](https://www.behance.net/tsay/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/tltsay/) &nbsp;       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='30'>](https://www.behance.net/tsay/)
+^ Check out my Mechanical Engineering and Art projects at Behance!    
