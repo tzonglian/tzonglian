@@ -1,4 +1,4 @@
-###  :computer: Web Developer, :factory: Mechanical Engineer, and :art: Artist!
+###  :computer: Software Developer, :factory: Mechanical Engineer, and :art: Artist!
 
 *React.js / Node.js / JavaScript / HTML / CSS / Python*
 
