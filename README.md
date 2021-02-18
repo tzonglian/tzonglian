@@ -12,4 +12,4 @@ Multi-disciplinary engineer with experience in product design and development, a
 - ⚡ Fun fact... I type in Dvorak! 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='30'>](https://www.behance.net/tsay/) &nbsp;                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/tltsay/)   
-☝️ Check out my Mechanical Engineering and Art projects at Behance!    
+☝️ Check out my Web Dev, Mechanical Engineering and Art projects at Behance!    
