@@ -2,7 +2,7 @@
 
 *React.js / Node.js / JavaScript / HTML / CSS / Python*
 
-Multi-disciplinary engineer with experience in product design and development, as well as prototyping and manufacturing. I've worked in engineering consulting, consumer electronics, medical devices, and solar industries. 
+Driven and versatile, I'm a multi-disciplinary engineer with experience in product design and development.  As a mechanical engineer, I worked in mechanical design, prototyping, and manufacturing. Industries I've worked in: consulting, consumer electronics, medical devices, and solar. 
 
 - :pencil2: I’m currently working on... Revamping an charity website 
 - 👯 I’m looking to collaborate on... Effective Altruism 
