@@ -13,3 +13,5 @@ Driven and versatile, I'm a multi-disciplinary engineer with experience in produ
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='30'>](https://www.behance.net/tsay/) &nbsp;                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/tltsay/)   
 ☝️ Check out my Web Dev, Mechanical Engineering and Art projects at Behance!    
+
+PS - If there are a bunch of empty squares in my github contribution, that's because I was over at CodeSignal instead, playing with algorithm problems (https://app.codesignal.com/profile/tzong-lian)
